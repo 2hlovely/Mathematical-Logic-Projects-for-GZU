@@ -10,3 +10,5 @@ Define a propositional language using BNF: implement the formula syntax analysis
 
 Randomly generate clauses and use a SAT solver to compute their models.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
